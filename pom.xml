@@ -32,7 +32,7 @@
         </dependency>
         <dependency>
             <groupId>org.tinygroup</groupId>
-            <artifactId>org.tinygroup.Flowweblayer</artifactId>
+            <artifactId>org.tinygroup.flowweblayer</artifactId>
             <version>${tiny_version}</version>
         </dependency>
         <dependency>
